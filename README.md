@@ -1,40 +1,48 @@
 # 🌌 Cosmic Portfolio - Aanchal
 
-A **next-level interactive cosmic portfolio** built with React, Three.js, and GSAP.
+A **stunning interactive cosmic portfolio** featuring a 3D solar system, realistic fireball animations, and immersive space-themed UI.
 
 ## ✨ Features
 
-- **Interactive 3D Solar System** with clickable planets
-- **Orbiting skill moons** with neon glow effects
-- **Aurora shaders** and nebula backgrounds
-- **Meteor showers** and shooting stars
-- **Asteroid belts** around planets
-- **Project modals** with GitHub/live links
-- **GSAP scroll animations**
-- **Fully responsive** dark cosmic theme
+- **Interactive 3D Solar System** with clickable planets and orbits
+- **Realistic Fireball Animations** with trails and sparks
+- **Space Explorer Interface** with planet carousel
+- **Animated Astronaut Character** with CSS animations
+- **Meteor Showers** and twinkling star backgrounds
+- **Project Cards** with planetary themes
+- **Responsive Design** optimized for all devices
+- **Smooth Animations** and cosmic visual effects
 
 ## 🚀 Quick Start
 
 ```bash
-npm install
-npm start
+# Clone the repository
+git clone https://github.com/aanchal911/portfolio
+
+# Navigate to project
+cd portfolio
+
+# Open in browser
+open index.html
 ```
 
-## 🌟 Deploy to Vercel
+## 🌟 Live Demo
 
-1. Push to GitHub
-2. Connect to Vercel
-3. Auto-deploy!
+Visit the live portfolio: [Coming Soon]
 
 ## 🛠️ Tech Stack
 
-- React 18
-- Three.js + React Three Fiber
-- GSAP + ScrollTrigger
-- Tailwind CSS
-- tsParticles
-- React Typed
+- **HTML5** - Structure and content
+- **CSS3** - Advanced animations and effects
+- **JavaScript** - Interactive functionality
+- **Pure CSS Animations** - No external libraries
+
+## 📧 Contact
+
+- **Email**: aanchalbb11@gmail.com
+- **GitHub**: [@aanchal911](https://github.com/aanchal911)
+- **LinkedIn**: [Aanchal Bhatt](https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/)
 
 ---
 
-**Built with 💖 by Aanchal**
+**Built with 💖 by Aanchal Bhatt**
